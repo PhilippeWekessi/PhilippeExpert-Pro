@@ -1,0 +1,6 @@
+{
+  "name": "Consultant Logiciel Hub",
+  "description": "Plateforme professionnelle de consulting en développement logiciel avec calculateur de devis dynamique, générateur de cahier des charges par IA et gestion des prospects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
